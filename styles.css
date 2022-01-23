@@ -77,7 +77,20 @@ hr {
   font-weight: bold;
   text-decoration: none;
 }
-
+.JNV-link{
+  color: #FFA1C9;
+  font-family: 'Montserrat', sans-serif;
+  margin: 15px 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.NIT-link{
+  color: #FFA1C9;
+  font-family: 'Montserrat', sans-serif;
+  margin: 15px 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
 .upper-link-left{
   position: absolute ;
   right: 200px;
